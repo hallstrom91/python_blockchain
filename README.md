@@ -1,2 +1,2 @@
-# python_blockchain
-Simple blockchain in python, just for fun.
+# Python Blockchain
+### `Simple blockchain in python, just for fun.`
